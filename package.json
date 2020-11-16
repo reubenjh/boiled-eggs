@@ -1,6 +1,6 @@
 {
-  "name": "mayo",
-  "description": "The Wipster React app for iOS, Android, and Web.",
+  "name": "boiled.eggs",
+  "description": "A boilerplate app for iOS, Android, and Web.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -19,9 +19,9 @@
 
 ## Introduction
 
-This is the Mayo Wipster App.
+This is a boilerplate cross-platform app.
 
-The source code for all three platforms (iOS, Android, and Web) is generated from this codebase.
+The source code for all three platforms is generated from this codebase.
 
 <br />
 <br />

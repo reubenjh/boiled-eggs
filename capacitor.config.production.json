@@ -1,6 +1,6 @@
 {
-  "appId": "io.wipster",
-  "appName": "Wipster",
+  "appId": "boiled.eggs",
+  "appName": "boiled.eggs",
   "webDir": "build",
   "npmClient": "yarn",
   "bundledWebRuntime": false,
