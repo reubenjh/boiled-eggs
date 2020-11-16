@@ -1,4 +1,4 @@
-# Mayo
+# Boiled Eggs (a boilerplate app)
 
 ## Index
 
